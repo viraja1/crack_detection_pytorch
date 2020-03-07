@@ -9,7 +9,7 @@
     ```
 2) Change directory
     ```
-    $ cd crack_detection
+    $ cd crack_detection_pytorch
     ```
 
 3) Install Requirements
@@ -18,7 +18,7 @@
     ```
 4) Train Model 
    
-   Skip this step if you want to use pretrained PyTorch model
+   Skip this step if you want to use the pretrained PyTorch model
    
    Tested with python 3.7
    ```
